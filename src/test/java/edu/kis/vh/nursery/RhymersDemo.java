@@ -1,5 +1,5 @@
 package edu.kis.vh.nursery;
-
+// Projekt jest poprawny, testy jednostkowe przechodzą.
 import edu.kis.vh.nursery.factory.DefaultRhymersFactory;
 import edu.kis.vh.nursery.factory.RhymersFactory;
 
